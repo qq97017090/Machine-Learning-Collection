@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute by scaling the activations before and after the convolution" />
+      <item value="Pre-normalize inputs to avoid FP16 overflow" />
+      <item value="Perform modulation, convolution, and demodulation as a single fused operation?" />
+      <item value="correlation" />
+      <item value="Low-pass filter to apply when resampling activations. Must be prepared beforehand by calling upfirdn2d.setup_filter()" />
+      <item value="Padding with respect to the upsampled image." />
+      <item value="Optional noise tensor to add to the output activations" />
+      <item value="Modulation coefficients of shape" />
       <item value="blur fade kimg" />
       <item value="blur init sigma" />
       <item value="pl no weight grad" />
@@ -13,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
