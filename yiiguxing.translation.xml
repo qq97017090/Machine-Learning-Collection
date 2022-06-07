@@ -1,0 +1,24 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="blur fade kimg" />
+      <item value="blur init sigma" />
+      <item value="pl no weight grad" />
+      <item value="pl batch shrink" />
+      <item value="augment pipe" />
+      <item value="to be overridden by subclass" />
+      <item value="Any use, reproduction, disclosure or distribution of this software and related documentation without an express license agreement from NVIDIA CORPORATION is strictly prohibited." />
+      <item value="NVIDIA CORPORATION and its licensors retain all intellectual property and proprietary rights in and to this software, related documentation and any modifications thereto." />
+      <item value="NVIDIA CORPORATION and its licensors retain all intellectual property" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1654563104841" />
+  </component>
+</application>
