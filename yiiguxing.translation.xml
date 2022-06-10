@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A label tensor filled with ground truth label, and with the size of the input" />
+      <item value="The GANLoss class abstracts away the need to create the target label tensor that has the same size as the input" />
       <item value="It encourages greater color diversity but has no effect on spatial statistics." />
       <item value="Such a patch-level discriminator architecture has fewer parameters than a full-image discriminator and can work on arbitrarily-sized images in a fully convolutional fashion" />
       <item value="diagonal" />
@@ -30,8 +32,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="28" />
       </map>
     </option>
   </component>
