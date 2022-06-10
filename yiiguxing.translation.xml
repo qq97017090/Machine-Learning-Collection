@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="diagonal" />
       <item value="negative" />
       <item value="negatives" />
       <item value="Should the negatives from the other samples of a minibatch be utilized?" />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
