@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="flipped for equivariance:" />
       <item value="Enforce flip-equivariance as additional regularization" />
       <item value="nce includes all negatives from minibatch" />
       <item value="A label tensor filled with ground truth label, and with the size of the input" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
