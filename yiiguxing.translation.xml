@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="non-differentiable spectral normalization module" />
       <item value="equivariance" />
       <item value="flipped for equivariance:" />
       <item value="Enforce flip-equivariance as additional regularization" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
